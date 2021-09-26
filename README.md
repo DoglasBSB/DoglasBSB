@@ -16,9 +16,9 @@
                                                                                                                                                                                                      
 <div align="center" style="display: inline_block"><br>                                                         
   <a href="https://beacons.ai/DoglasBSB">                                     
-     <img   height="180rem" style="width: rem" src="https://github-readme-stats.vercel.app/api?username=DoglasBSB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-     <img   height="180rem" style="width: rem" src="https://github-readme-streak-stats.herokuapp.com?user=DoglasBSB&theme=dark&hide_border=true&border=0B0202EE&stroke=DD7B18"/> 
-     <img  height="180rem" style="width: rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoglasBSB&layout=compact&langs_count=16&theme=dark"/>
+     <img   align="center" height="180rem" style="width: 21rem" src="https://github-readme-stats.vercel.app/api?username=DoglasBSB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+     <img   align="center" height="180rem" style="width: 20rem" src="https://github-readme-streak-stats.herokuapp.com?user=DoglasBSB&theme=dark&hide_border=true&border=0B0202EE&stroke=DD7B18"/> 
+     <img  align="center" height="180rem" style="width: 18rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoglasBSB&layout=compact&langs_count=16&theme=dark"/>
 </div>                                                                 
 <div align="center" style="display: inline_block"><br> 
     <img align="center" alt="Doglas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
