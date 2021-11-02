@@ -2,9 +2,9 @@
 
 - 👋 Olá, sou @DoglasBSB
 - 🔭 Estou interessado em seguir uma carreira Desenvolvedor Full Stack
-- ⚡ Atualmente estou trabalhando como Operador Técnico "Monitoramento/ Processamento" para Caixa Seguradora.
-- 📚 Estou aprendendo e atualizando conhecimentos Back-End/Front-End. 
-- 👉 Procuro projetos onde possa colaborar com HTML, CSS e Javascript.
+- ⚡ Atualmente estou trabalhando como Desenvolvedor Java.
+- 📚 Estou aprendendo e atualizando conhecimentos.
+- 👉 Procuro projetos onde possa colaborar  no Backend e Frontend.
 - 📫 Como entrar em contato comigo:  https://www.linkedin.com/in/franciscodôglas/
 
 
