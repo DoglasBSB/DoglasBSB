@@ -1,10 +1,9 @@
 
 
 - 👋 Olá, sou @DoglasBSB
-- 🔭 Estou interessado em seguir uma carreira Desenvolvedor Full Stack
-- ⚡ Atualmente estou trabalhando como Desenvolvedor Java.
-- 📚 Estou aprendendo e atualizando conhecimentos.
-- 👉 Procuro projetos onde possa colaborar  no Backend e Frontend.
+- ⚡ Atualmente estou trabalhando como Analista de Teste Funcional/QA.
+- 📚 Estou aprendendo e atualizando conhecimentos em automatização.
+- 👉 Procuro projetos onde possa colaborar com testes automatizados, utilizando Cypress, Selenium e Python.
 - 📫 Como entrar em contato comigo:  https://www.linkedin.com/in/franciscodôglas/
 
 
