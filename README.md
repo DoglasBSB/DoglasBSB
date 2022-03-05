@@ -2,8 +2,8 @@
 
 - 👋 Olá, sou @DoglasBSB
 - ⚡ Atualmente estou trabalhando como Analista de Teste Funcional/QA.
-- 📚 Estou aprendendo e atualizando conhecimentos em automatização.
-- 👉 Procuro projetos onde possa colaborar com testes automatizados, utilizando Cypress, Selenium e Python.
+- 📚 Estou aprendendo e atualizando conhecimentos em automação de Testes.
+- 👉 Procuro projetos onde possa colaborar utilizando Cypress, Selenium, Robot e Python.
 - 📫 Como entrar em contato comigo:  https://www.linkedin.com/in/franciscodôglas/
 
 
