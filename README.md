@@ -1,9 +1,9 @@
 
 
 - 👋 Olá, sou @DoglasBSB
-- ⚡ Atualmente estou trabalhando como Analista de Teste Funcional/QA.
+- ⚡ Atualmente presto serviços como Analista de Quality Assurance (QA) Jr.
 - 📚 Estou aprendendo e atualizando conhecimentos em automação de Testes.
-- 👉 Procuro projetos onde possa colaborar utilizando Cypress, Selenium, Robot e Python.
+- 👉 Procuro projetos onde possa colaborar utilizando Cypress.
 - 📫 Como entrar em contato comigo:  https://www.linkedin.com/in/franciscodôglas/
 
 
