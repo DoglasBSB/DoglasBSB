@@ -21,19 +21,15 @@
 </div>                                                                 
 <div align="center" style="display: inline_block"><br> 
      <img align="center" alt="Doglas-Java" height="45" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
-     <img align="center" alt="Doglas-Python" height="45" width="40" src="https://img.icons8.com/fluency/48/000000/python.png">  
      <img align="center" alt="Doglas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Doglas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="Doglas-Bootstrap" height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png">
      <img align="center" alt="Doglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
      <img align="center" alt="Doglas-Selenium" height="45" width="40"  src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png">
      <img align="center" alt="Doglas-JUnit" height="45" width="40" src=https://github.com/junit-team/junit5/blob/86465f4f491219ad0c0cf9c64eddca7b0edeb86f/assets/img/junit5-logo.svg>  
      <img align="center" alt="Doglas-Postman" height="45" width="40"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/45/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png">
     <img align="center" alt="Doglas-Json" height="45" width="40"  src="https://img.icons8.com/color/48/000000/cloud-function.png">  
-    <img align="center" alt="Doglas-MongoDB" height="45" width="40" src="https://img.icons8.com/color/48/000000/mongodb.png">
     <img align="center" alt="Doglas-SQLServer" height="45" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
     <img align="center" alt="Doglas-Scrum" height="45" width="40" src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/000000/external-scrum-agile-flaticons-flat-flat-icons-2.png">
-   <img align="center" alt="Doglas-Jira" height="45" width="40"  src="https://img.icons8.com/color/40/000000/jira.png"/> 
    <img align="center" alt="Doglas-Intelij" height="45" width="40"  src="https://img.icons8.com/color/48/000000/intellij-idea.png">
 </div>                                                                                                                                                                             
   
