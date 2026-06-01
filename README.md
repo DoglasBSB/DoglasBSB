@@ -2,8 +2,6 @@
 
 - 👋 Olá, sou @DoglasBSB
 - ⚡ Atualmente presto serviços como Analista de Quality Assurance (QA).
-- 📚 Estou aprendendo e atualizando conhecimentos em automação de Testes.
-- 👉 Procuro projetos onde possa colaborar utilizando Playwright, Cypress, Robot e Selenium.
 - 📫 Como entrar em contato comigo:  https://www.linkedin.com/in/franciscodôglas/
 
 
